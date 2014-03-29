@@ -386,3 +386,4 @@ included with WordPress can be freely obtained at the following URL:
 
 
 Test Git push/pull
+test user push/pull with git config --global push.default matching
